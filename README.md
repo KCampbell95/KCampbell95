@@ -10,7 +10,7 @@ I build web applications and API integrations, and my day job inside financial s
 - A transaction reconciliation tool in Java (coming soon)
 
 ## 🛠️ Tech stack
-- **Languages:** Java, JavaScript,PHP, SQL, HTML, CSS
+- **Languages:** Java, JavaScript, PHP, SQL, HTML, CSS
 - **Front end:** React, Angular, Vue.js
 - **Back end:** Node.js, .NET, RESTful APIs, Web APIs
 - **Data:** MS SQL, MySQL, MongoDB
