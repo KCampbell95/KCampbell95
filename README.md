@@ -10,11 +10,11 @@ I build web applications and API integrations, and my day job inside financial s
 - A transaction reconciliation tool in Java (coming soon)
 
 ## 🛠️ Tech stack
-- **Languages:** Java, C#, Python, JavaScript, TypeScript, PHP, SQL, HTML5, CSS3
+- **Languages:** Java, JavaScript,PHP, SQL, HTML, CSS
 - **Front end:** React, Angular, Vue.js
-- **Back end:** Node.js, .NET, RESTful APIs
+- **Back end:** Node.js, .NET, RESTful APIs, Web APIs
 - **Data:** MS SQL, MySQL, MongoDB
-- **Cloud & tools:** Azure, AWS (basic), Git/GitHub, Linux, JIRA, Agile/Scrum
+- **Cloud & tools:** Azure, AWS (basic), Git/GitHub, JIRA, Agile/Scrum
 
 ## 💼 Background
 - **Financial Operations Associate, PIDWIN:** reconciling transactions across QuickBooks Online, CRM platforms, and crypto activity
