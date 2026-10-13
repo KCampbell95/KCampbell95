@@ -5,7 +5,7 @@
 I build web applications and API integrations, and my day job inside financial systems has made me someone who traces problems to the root cause. I'm focused on fintech and financial-systems engineering roles.
 
 ## 🔭 What I'm working on
-- Java practice projects from my Amazon Junior Software Developer Professional Certificate (Oct 2026)
+- Java practice projects from my Amazon Junior Software Developer Professional Certificate
 - Data structures in Java: ArrayList, LinkedList, and more
 - A transaction reconciliation tool in Java (coming soon)
 
